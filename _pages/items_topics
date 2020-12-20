@@ -3,6 +3,7 @@ layout: page
 title:  "Items & Topics Data"
 ---
 
+
 From the probabilistic topic modeling algorithm, Latent Dirichlet Allocation, dominant topics were assigned to each item in the digital items list based on the probabilities of 
 the words located in the title and abstract. That is, if the sum of the probabilities of the words associated with one topic was greater than the sum of the probabilities of 
 the words associated with another topic, the topic with the highest sum of probabilities became the dominant topic for the given item. The file with dominant topics assigned 
