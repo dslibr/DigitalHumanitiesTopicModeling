@@ -10,9 +10,7 @@ which are separated by semi-colons in the table.
 
 Names were assigned to topics after careful analysis of the titles and abstracts in conjunction with the <i>Top-30 Most Salient Terms</i> bar chart. The bar chart shows the top-30 most relevant terms for each topic and the 
 estimated frequency of each term within the whole document as well as within the given topic. This interactive graph also includes the <i>Intertopic Distance Map</i> and 
-both can be accessed below and from the navigation bar on the left:
-                
-<a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/lda-mallet_vis.html" target="_blank">open the graph</a>.
+both can be accessed below and from the navigation bar on the left: <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/lda-mallet_vis.html" target="_blank">open the graph</a>.
 
 | Number   | Name                                                                                                                                          |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------------|
