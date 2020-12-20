@@ -9,15 +9,15 @@ collections:
     permalink: /:path/
 
 # Title
-name: DOCter
-subtitle: A Jekyll template for project documentation
+name: DigitalHumanitiesTopicModeling
+subtitle: Exploratory, unsupervised learning project to investigate which topics are present within the humanities digital collection
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/DOCter'
+baseurl: '/DigitalHumanitiesTopicModeling'
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -34,19 +34,37 @@ navigation:
 - text: Home
   url: ./
   internal: true
-- text: Example Page
-  url: example_page/
+- text: Word Map
+  url: word_map/
   internal: true
-- text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
+- text: Intertopic Distance Map & Top-30 Most Salient Terms
+  url: intertopic_distance/
+  internal: true
+- text: List of Topics
+  url: list_topics/
+  internal: true
+- text: Items within Topics
+  url: items_topics/
+  internal: true
+- text: Distribution Over Time
+  url: distrib_time/
+- text: Data Problems
+  url: data_prob/
+  internal: true
+ - text: Code Files
+  url: code_files/
+  internal: true
+  internal: true
+- text: DigitalHumanitiesTopicModeling Repo
+  url: https://github.com/lisaover/DigitalHumanitiesTopicModeling
   internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: DOCter
-  description: Jekyll template for docs
-  url: https://github.com/cfpb/DOCter
+- name: Data Mining
+  description: Data Mining Course Files
+  url: https://github.com/lisaover/PittDataMining
 
 # Style Variables
 brand_color: "#2cb34a"
