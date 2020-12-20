@@ -51,7 +51,7 @@ navigation:
 - text: Data Problems
   url: data_prob/
   internal: true
- - text: Code Files
+- text: Code Files
   url: code_files/
   internal: true
 - text: DigitalHumanitiesTopicModeling Repo
