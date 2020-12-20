@@ -1,0 +1,8 @@
+Data Dictionary for topic_year_cnt.csv,,
+FIELD,DESCRIPTION,
+Dominant_Topic,Topic number of item assigned from Mallet LDA model,
+Date,Date of event depicted by the item - 'Sort Date' from Islandora metadata,
+Count,Number of items with specified date from 'Date' field,
+,,
+,,
+, ,

@@ -1,0 +1,17 @@
+Data Dictionary for items_dominant_topics.csv,
+FIELD,DESCRIPTION
+Identifier,Unique identifier for item from Islandora metadata
+Title,Title of item from Islandora metadata
+Creator,Creator of item from Islandora metadata
+Sort Date,Date of event depicted by item from Islandora metadata
+Type of Resource,Type of resource from Islandora metadata
+Genre,Genre of the item from Islandora metadata
+Abstract,Abstract of the item from Islandora metadata
+Source,Source of the item from Islandora metadata
+Site Membership,Site membership of the item from Islandora metadata
+Collection Membership,Collection membersip of the item from Islandora metadata
+Ttle_Abs,Title and Abstract fields concatenated together
+Dominant_Topic,Topic number of item assigned from Mallet LDA model
+Perc_Contribution,The dominant topic's percentage contribution for the item
+Topic_Keywords,Top-10 keywords for the dominant topic
+Dominant_Topic_Vis,Topic Number assigned by LDA Gensim when Mallet model was converted for pyLDAvis graph
