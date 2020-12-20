@@ -43,7 +43,7 @@ navigation:
 - text: List of Topics
   url: list_topics/
   internal: true
-- text: Items within Topics
+- text: Items & Topics Data
   url: items_topics/
   internal: true
 - text: Distribution Over Time
