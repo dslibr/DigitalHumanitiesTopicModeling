@@ -3,6 +3,8 @@ layout: page
 title:  "Word Map"
 ---
 
+# Word Map
+
 The word map below shows the relationships among words with respect to their semantic and syntactic similarity. This visualization of words was developed using the two-layer neural network Word2vec function and T-distributed Stochastic Neighbor Embedding (t-SNE). Word2vec creates word vectors based on their semantic and syntactic meanings, and t-SNE represents these word vectors in two-dimensional space.
 
 <img src="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/tsne_800.png" alt="t-SNE Plot Created from the 'word2vec' Word Embeddings" />
