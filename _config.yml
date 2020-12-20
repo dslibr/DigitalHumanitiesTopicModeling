@@ -10,7 +10,7 @@ collections:
 
 # Title
 name: DigitalHumanitiesTopicModeling
-subtitle: Exploratory, unsupervised learning project to investigate which topics are present within the humanities digital collection
+subtitle: Exploratory, unsupervised learning project to investigate which topics are present within the humanities digital collection at the University of Pittsburgh
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
