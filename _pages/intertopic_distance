@@ -3,7 +3,7 @@ layout: page
 title:  "Intertopic Distance Map & Top-30 Most Salient Terms"
 ---
 
-<br/><a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/lda-mallet_vis.html" target="_blank">Open the Graph</a><br/>
+<br/><a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/lda-mallet_vis.html" target="_blank">Open the Graph</a><br/><br/>
 
 The <i>Intertopic Distance Map</i> represents topics as circles and each topic's prevalence in the document as the area of its circle. In the case of the digital humanities items, the size of the circle represents the number of items assigned 
 to the respective topic with respect to the whole list. The location of circles on the grid is determined by computing the similarity between the probability distributions of the words found by the the Latent Dirichlet Allocation (LDA) 
