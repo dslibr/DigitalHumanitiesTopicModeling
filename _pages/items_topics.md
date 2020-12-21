@@ -20,7 +20,7 @@ All topic numbers referenced in other sections of this site correspond to the 'D
 
 The table below lists the data files for the project and includes a data dictionary for each file to explain the fields.<br/><br/>
 
-| <div width="150">Data File</div>                                  | Description                                                                                         |
+| Data File                                  | Description                                                                                         |
 |:-------------------------------------------|:----------------------------------------------------------------------------------------------------|
 | <a href="https://media.githubusercontent.com/media/lisaover/DigitalHumanitiesTopicModeling/Output%20Data/items\_dominant\_topics.csv" target="\_blank">Items\_dominant\_topics.csv</a>                | Lists the digital humanities items with fields that identify the dominant topic for each item       |
 | <a href="https://media.githubusercontent.com/media/lisaover/DigitalHumanitiesTopicModeling/Output%20Data/items\_dominant\_topics\_data_dict.csv" target="\_blank">Items\_dominant\_topics\_data\_dict.csv</a>    | Data dictionary for items\_dominant\_topics.csv                                                     |
