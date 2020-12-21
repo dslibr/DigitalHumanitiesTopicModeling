@@ -3,6 +3,9 @@ layout: page
 title:  "Distribution Over Time"
 ---
 
+The following table lists interactive time series graphs and the data used to create them. The nineteen time series graphs show the distribution of items with respect to the 
+time periods covered within a given topic. Topics_date_cnt.csv includes the count of data items grouped by topic and 'Sort Date,' i.e., the date of the event depicted by the 
+item. <i>Topics_date_cnt_data_dict.csv</i> is the data dictionary for the <i>topics_date_cnt.csv</i> file.
 
 | File                         | Description                                                                                                                                         |
 |:-----------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
