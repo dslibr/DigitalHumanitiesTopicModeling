@@ -17,6 +17,16 @@ All topic numbers referenced in other sections of this site correspond to the 'D
 
 The table below lists the data files for the project and includes a data dictionary for each file to explain the fields.<br/><br/>
 
+| Data File                               | Description                                                                                         |
+|-----------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Items\_dominant\_topics.csv             | Lists the digital humanities items with fields that identify the dominant topic for each item       |
+| Items\_dominant\_topics\_data\_dict.csv | Data dictionary for items\_dominant\_topics.csv                                                     |
+| Items\_topics\_summ.csv                 | Lists the topic numbers from both Mallet and Gensim models, keywords, and topic name for each topic |
+| Items\_topics\_summ\_data\_dict.csv     | Data dictionary for items\_topics\_summ.csv                                                         |
+
+
+
+
 
 |<div style="width:100px">Data File</div>| Description                                                                                                  |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------|                                                | Lists the digital humanities items with fields that identify the dominant topic for each item       |
