@@ -11,7 +11,7 @@ estimated frequency of each term within the whole document as well as within the
 both can be accessed below and from the navigation bar on the left: <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/lda-mallet_vis.html" target="_blank">open the graph</a>.
 
 | Number       | Name                                                                                                                                          |
-|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+|:-------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
 | Topic 1      | Religious Structures, Practices, History (Christianity); Gothic Architecture; Windows and Porches: Views of People and Stores                 |
 | Topic 2      | Buildings: History, Construction, Restoration, and Renovation                                                                                 |
 | Topic 3      | Primary and Secondary Industry: People Working and Companies                                                                                  |
