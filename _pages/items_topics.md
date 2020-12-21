@@ -19,18 +19,7 @@ The table below lists the data files for the project and includes a data diction
 
 | Data File                               | Description                                                                                         |
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Items\_dominant\_topics.csv             | Lists the digital humanities items with fields that identify the dominant topic for each item       |
-| Items\_dominant\_topics\_data\_dict.csv | Data dictionary for items\_dominant\_topics.csv                                                     |
-| Items\_topics\_summ.csv                 | Lists the topic numbers from both Mallet and Gensim models, keywords, and topic name for each topic |
-| Items\_topics\_summ\_data\_dict.csv     | Data dictionary for items\_topics\_summ.csv                                                         |
-
-
-
-
-
-|<div style="width:100px">Data File</div>| Description                                                                                                  |
-|----------------------------------------|--------------------------------------------------------------------------------------------------------------|                                                | Lists the digital humanities items with fields that identify the dominant topic for each item       |
-|<a href="https://media.githubusercontent.com/media/lisaover/DigitalHumanitiesTopicModeling/Output%20Data/items_dominant_topics.csv" target="_blank">Items_dominant_topics.csv</a>                       | Lists the digital humanities items with fields that identify the dominant topic for each item       |
-|<a href="https://media.githubusercontent.com/media/lisaover/DigitalHumanitiesTopicModeling/Output%20Data/items_dominant_topics_data_dict.csv" target="_blank">Items_dominant_topics_data_dict.csv</a>   | Data dictionary for items_dominant_topics.csv                                                       |
-|<a href="https://media.githubusercontent.com/media/lisaover/DigitalHumanitiesTopicModeling/Output%20Data/items_topics_summ.csv" target="_blank">Items_topics_summ.csv</a>                               | Lists the topic numbers from both Mallet and Gensim models, keywords, and topic name for each topic |
-|<a href="https://media.githubusercontent.com/media/lisaover/DigitalHumanitiesTopicModeling/Output%20Data/items_topics_summ_data_dict.csv" target="_blank">Items_topics_summ_data_dict.csv</a>           | Data dictionary for items_topics_summ.csv                                                           |
+| <a href="https://media.githubusercontent.com/media/lisaover/DigitalHumanitiesTopicModeling/Output%20Data/items\_dominant\_topics.csv" target="\_blank">Items\_dominant\_topics.csv</a>             | Lists the digital humanities items with fields that identify the dominant topic for each item       |
+| <a href="https://media.githubusercontent.com/media/lisaover/DigitalHumanitiesTopicModeling/Output%20Data/items\_dominant\_topics\_data_dict.csv" target="\_blank">Items\_dominant\_topics\_data\_dict.csv</a> | Data dictionary for items\_dominant\_topics.csv                                                     |
+| <a href="https://media.githubusercontent.com/media/lisaover/DigitalHumanitiesTopicModeling/Output%20Data/items\_topics\_summ.csv" target="\_blank">Items\_topics\_summ.csv</a>                 | Lists the topic numbers from both Mallet and Gensim models, keywords, and topic name for each topic |
+| <a href="https://media.githubusercontent.com/media/lisaover/DigitalHumanitiesTopicModeling/Output%20Data/items\_topics\_summ\_data_dict.csv" target="\_blank">Items\_topics\_summ\_data\_dict.csv</a>     | Data dictionary for items\_topics\_summ.csv                                                         |
