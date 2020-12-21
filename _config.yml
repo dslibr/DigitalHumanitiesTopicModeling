@@ -48,6 +48,7 @@ navigation:
   internal: true
 - text: Distribution Over Time
   url: distrib_time/
+  internal: true
 - text: Data Problems
   url: data_prob/
   internal: true
