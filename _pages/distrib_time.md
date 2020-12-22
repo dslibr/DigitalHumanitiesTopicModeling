@@ -24,7 +24,7 @@ item. <i>Topics_date_cnt_data_dict.csv</i> is the data dictionary for the <i>top
 | <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/Topic_Num_Vis 7.html" target="\_blank">Topic\_Num\_Vis&nbsp;7.html</a>&nbsp;&nbsp;&nbsp;                      | City Roadways and Neighborhoods; Locations of City Establishments                                                                             |
 | | |
 | <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/Topic_Num_Vis 8.html" target="\_blank">Topic\_Num\_Vis&nbsp;8.html</a>&nbsp;&nbsp;&nbsp;                      | Portraits; People: Living, Working, Learning, and Playing; Animals: Pets and Wild                                                             |
-|---|---|
+| | |
 | <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/Topic_Num_Vis 9.html" target="\_blank">Topic\_Num\_Vis&nbsp;9.html</a>&nbsp;&nbsp;&nbsp;                      | Maps of Pittsburgh; Performing Arts; Gatherings: Clubs, Camps, Carnivals, Luncheons                                                           |
 | | |
 | <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/Topic_Num_Vis 10.html" target="\_blank">Topic\_Num\_Vis&nbsp;10.html</a>&nbsp;&nbsp;&nbsp;                     | Architecture: Homes, Buildings of Worship, Cathedral of Learning; Fine Arts; Celebrations, Marches, and Ceremonies; McCurdy Family of Oakmont |
