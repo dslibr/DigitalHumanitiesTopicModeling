@@ -12,40 +12,40 @@ both can be accessed below and from the navigation bar on the left: <a href="htt
 
 | Number       | Name                                                                                                                                          |
 |:-------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
-| Topic&nbsp;1&nbsp;&nbsp;      | Religious Structures, Practices, History (Christianity); Gothic Architecture; Windows and Porches: Views of People and Stores                 |
+| Topic&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;      | Religious Structures, Practices, History (Christianity); Gothic Architecture; Windows and Porches: Views of People and Stores                 |
 | | |
-| Topic&nbsp;2&nbsp;&nbsp;      | Buildings: History, Construction, Restoration, and Renovation                                                                                 |
+| Topic&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;      | Buildings: History, Construction, Restoration, and Renovation                                                                                 |
 | | |
-| Topic&nbsp;3&nbsp;&nbsp;      | Primary and Secondary Industry: People Working and Companies                                                                                  |
+| Topic&nbsp;3&nbsp;&nbsp;&nbsp;&nbsp;      | Primary and Secondary Industry: People Working and Companies                                                                                  |
 | | |
-| Topic&nbsp;4&nbsp;&nbsp;      | Unions and Labor; Political and Economic Ideals and Revolutions                                                                               |
+| Topic&nbsp;4&nbsp;&nbsp;&nbsp;&nbsp;      | Unions and Labor; Political and Economic Ideals and Revolutions                                                                               |
 | | |
-| Topic&nbsp;5&nbsp;&nbsp;      | Neighborhood Institutions, Facilities, and Public Space                                                                                       |
+| Topic&nbsp;5&nbsp;&nbsp;&nbsp;&nbsp;      | Neighborhood Institutions, Facilities, and Public Space                                                                                       |
 | | |
-| Topic&nbsp;6&nbsp;&nbsp;      | Allegheny County History, Geography, and Governemnt; Allegheny Mountains; Allegheny City; Allegheny River; Allegheny Avenue                   |
+| Topic&nbsp;6&nbsp;&nbsp;&nbsp;&nbsp;      | Allegheny County History, Geography, and Governemnt; Allegheny Mountains; Allegheny City; Allegheny River; Allegheny Avenue                   |
 | | |
-| Topic&nbsp;7&nbsp;&nbsp;      | City Roadways and Neighborhoods; Locations of City Establishments                                                                             |
+| Topic&nbsp;7&nbsp;&nbsp;&nbsp;&nbsp;      | City Roadways and Neighborhoods; Locations of City Establishments                                                                             |
 | | |
-| Topic&nbsp;8&nbsp;&nbsp;      | Portraits; People: Living, Working, Learning, and Playing; Animals: Pets and Wild                                                             |
+| Topic&nbsp;8&nbsp;&nbsp;&nbsp;&nbsp;      | Portraits; People: Living, Working, Learning, and Playing; Animals: Pets and Wild                                                             |
 | | |
-| Topic&nbsp;9&nbsp;&nbsp;      | Maps of Pittsburgh; Performing Arts; Gatherings: Clubs, Camps, Carnivals, Luncheons                                                           |
+| Topic&nbsp;9&nbsp;&nbsp;&nbsp;&nbsp;      | Maps of Pittsburgh; Performing Arts; Gatherings: Clubs, Camps, Carnivals, Luncheons                                                           |
 | | |
-| Topic&nbsp;10&nbsp;&nbsp;     | Architecture: Homes, Buildings of Worship, Cathedral of Learning; Fine Arts; Celebrations, Marches, and Ceremonies; McCurdy Family of Oakmont |
+| Topic&nbsp;10&nbsp;&nbsp;&nbsp;&nbsp;     | Architecture: Homes, Buildings of Worship, Cathedral of Learning; Fine Arts; Celebrations, Marches, and Ceremonies; McCurdy Family of Oakmont |
 | | |
-| Topic&nbsp;11&nbsp;&nbsp;     | Civil Services and Structures Around Water: Development and Restoration; Financial Institution                                                |
+| Topic&nbsp;11&nbsp;&nbsp;&nbsp;&nbsp;     | Civil Services and Structures Around Water: Development and Restoration; Financial Institution                                                |
 | | |
-| Topic&nbsp;12&nbsp;&nbsp;     | Historical Documents: American History, Government Files/Notes, Literature, Correspondence                                                    |
+| Topic&nbsp;12&nbsp;&nbsp;&nbsp;&nbsp;     | Historical Documents: American History, Government Files/Notes, Literature, Correspondence                                                    |
 | | |
-| Topic&nbsp;13&nbsp;&nbsp;     | Geography: Neighborhoods and Communities                                                                                                      |
+| Topic&nbsp;13&nbsp;&nbsp;&nbsp;&nbsp;     | Geography: Neighborhoods and Communities                                                                                                      |
 | | |
-| Topic&nbsp;14&nbsp;&nbsp;     | Regional, National, and World Histories: Military, Population, and Government                                                                 |
+| Topic&nbsp;14&nbsp;&nbsp;&nbsp;&nbsp;     | Regional, National, and World Histories: Military, Population, and Government                                                                 |
 | | |
-| Topic&nbsp;15&nbsp;&nbsp;     | Historical Homes, Families, and Correspondence                                                                                                |
+| Topic&nbsp;15&nbsp;&nbsp;&nbsp;&nbsp;     | Historical Homes, Families, and Correspondence                                                                                                |
 | | |
-| Topic&nbsp;16&nbsp;&nbsp;     | Higher Education; Public Programs and Research: Awards and Funding                                                                            |
+| Topic&nbsp;16&nbsp;&nbsp;&nbsp;&nbsp;     | Higher Education; Public Programs and Research: Awards and Funding                                                                            |
 | | |
-| Topic&nbsp;17&nbsp;&nbsp;     | Health and Medicine; Sports: Events, Facilities, and Players; Coal Industry and Mine Safety                                                   |
+| Topic&nbsp;17&nbsp;&nbsp;&nbsp;&nbsp;     | Health and Medicine; Sports: Events, Facilities, and Players; Coal Industry and Mine Safety                                                   |
 | | |
-| Topic&nbsp;18&nbsp;&nbsp;     | Government; Organizational Administration, Leadership, and Training                                                                           |
+| Topic&nbsp;18&nbsp;&nbsp;&nbsp;&nbsp;     | Government; Organizational Administration, Leadership, and Training                                                                           |
 | | |
-| Topic&nbsp;19&nbsp;&nbsp;     | University of Pittsburgh News and Press Releases; Pittsburgh Neighborhoods                                                                    |
+| Topic&nbsp;19&nbsp;&nbsp;&nbsp;&nbsp;     | University of Pittsburgh News and Press Releases; Pittsburgh Neighborhoods                                                                    |
