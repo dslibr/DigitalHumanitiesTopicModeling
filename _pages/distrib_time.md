@@ -9,7 +9,7 @@ item. <i>Topics_date_cnt_data_dict.csv</i> is the data dictionary for the <i>top
 
 | File                         | Description                                                                                                                                         |
 |:-----------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/Topic_Num_Vis 1.html" target="\_blank">Topic\_Num\_Vis 1.html</a>&nbsp;&nbsp;&nbsp;                     | Religious Structures, Practices, History (Christianity); Gothic Architecture; Windows and Porches: Views of People and Stores                 |
+| <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/Topic_Num_Vis 1.html" target="\_blank">Topic\_Num\_Vis&nbsp;1.html</a>&nbsp;&nbsp;                     | Religious Structures, Practices, History (Christianity); Gothic Architecture; Windows and Porches: Views of People and Stores                 |
 | | |
 | <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/Topic_Num_Vis 2.html" target="\_blank">Topic\_Num\_Vis 2.html</a>&nbsp;&nbsp;&nbsp;                      | Buildings: History, Construction, Restoration, and Renovation                                                                                 |
 | | |
@@ -27,7 +27,7 @@ item. <i>Topics_date_cnt_data_dict.csv</i> is the data dictionary for the <i>top
 | | |
 | <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/Topic_Num_Vis 9.html" target="\_blank">Topic\_Num\_Vis 9.html</a>&nbsp;&nbsp;&nbsp;                      | Maps of Pittsburgh; Performing Arts; Gatherings: Clubs, Camps, Carnivals, Luncheons                                                           |
 | | |
-| <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/Topic_Num_Vis 10.html" target="\_blank">Topic\_Num\_Vis 10.html</a>&nbsp;&nbsp;&nbsp;                     | Architecture: Homes, Buildings of Worship, Cathedral of Learning; Fine Arts; Celebrations, Marches, and Ceremonies; McCurdy Family of Oakmont |
+| <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/Topic_Num_Vis 10.html" target="\_blank">Topic\_Num\_Vis&nbsp;10.html</a>&nbsp;&nbsp;&nbsp;                     | Architecture: Homes, Buildings of Worship, Cathedral of Learning; Fine Arts; Celebrations, Marches, and Ceremonies; McCurdy Family of Oakmont |
 | | |
 | <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/Graphs/Topic_Num_Vis 11.html" target="\_blank">Topic\_Num\_Vis 11.html</a>&nbsp;&nbsp;&nbsp;                     | Civil Services and Structures Around Water: Development and Restoration; Financial Institution                                                |
 | | |
