@@ -1,6 +1,6 @@
 ## Library Data Project: Digital Humanities Topic Modeling
 
-This site outlines the results of a topic modeling analysis performed on a list of digital humanities items from the University Library at the University of Pittsburgh. For more information on the data, method, and evaluation of the model, please <a href="https://DigitalHumanitiesTopicModeling.github.io/final_paper_Library_Data_Project.pdf" target="_blank">read the report</a>.
+This site outlines the results of a topic modeling analysis performed on a list of digital humanities items from the University Library at the University of Pittsburgh. For more information on the data, method, and evaluation of the model, please <a href="https://lisaover.com/DigitalHumanitiesTopicModeling/final_paper_Library_Data_Project.pdf" target="_blank">read the report</a>.
 
 ### Introduction
 
