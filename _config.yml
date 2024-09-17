@@ -22,7 +22,7 @@ baseurl: '/DigitalHumanitiesTopicModeling'
 # Author/Organization info to be displayed in the templates
 author:
   name: Lisa Over
-  url: https://lisaover.com
+  url: https://dslibr.com
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:
@@ -56,7 +56,7 @@ navigation:
   url: code_files/
   internal: true
 - text: DigitalHumanitiesTopicModeling Repo
-  url: https://github.com/lisaover/DigitalHumanitiesTopicModeling
+  url: https://github.com/dslibr/DigitalHumanitiesTopicModeling
   internal: false
 
 # Repo list
@@ -64,7 +64,7 @@ navigation:
 repos:
 - name: Data Mining
   description: Data Mining Course Files
-  url: https://github.com/lisaover/PittDataMining
+  url: https://github.com/dslibr/PittDataMining
 
 # Style Variables
 brand_color: "#2cb34a"
